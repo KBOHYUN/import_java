@@ -5,8 +5,7 @@ SMS 본인인증 - 안드로이드 연동
 
 
 
-
-> 참고
+* 참고
 
 > JAVA <https://github.com/iamport/iamport-rest-client-java>
 
